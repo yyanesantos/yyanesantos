@@ -22,6 +22,8 @@ Atual estudante de Engenharia de Computação com 21 anos (quase 22!) em busca d
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yyanesantos&repo=Gestao-servidor-carros)](https://github.com/yyanesantos/Gestao-servidor-carros)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yyanesantos&repo=Estacao-ferroviario)](https://github.com/yyanesantos/Estacao-ferroviario)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yyanesantos&repo=Desafio-Escrevendo-as-Classes-de-Um-Jogo)](https://github.com/yyanesantos/Desafio-Escrevendo-as-Classes-de-Um-Jogo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yyanesantos&repo=JogoCorridaEmJava)](https://github.com/yyanesantos/JogoCorridaEmJava)
+
 
 ## Detalhes
 
