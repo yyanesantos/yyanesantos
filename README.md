@@ -2,7 +2,7 @@
 
 # Yane dos Santos Lima | Estudante
 
-Atual estudante de Engenharia de Computação com 21 anos (quase 22!) em busca de mais conhecimento e experiência nas áreas de informática, programação e tecnologia. Esforçada e ávida por conhecimento, estou sempre tentando me aperfeiçoar intelectual e profissionalmente.
+Atual estudante de Engenharia de Computação com 22 anos em busca de mais conhecimento e experiência nas áreas de informática, programação e tecnologia. Esforçada e ávida por conhecimento, estou sempre tentando me aperfeiçoar intelectual e profissionalmente.
 
 ## 🔗 Conecte-se comigo! 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](www.linkedin.com/in/yyanesantos)
@@ -16,6 +16,7 @@ Atual estudante de Engenharia de Computação com 21 anos (quase 22!) em busca d
 )
 - ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
 - ![DataAnalysis](https://img.shields.io/badge/Data%20Analysis-000?style=for-the-badge&logo=DataAnalysis)
+- ![Swift](https://img.shields.io/badge/Swift-000?style=for-the-badge&logo=Swift)
 
 ## Repositórios importantes!
 
@@ -27,8 +28,9 @@ Atual estudante de Engenharia de Computação com 21 anos (quase 22!) em busca d
 
 ## Detalhes
 
-- 🌱 Eu estou aprendendo agora Java em Programação Orientada à Objetos no 2º semestre de Engenharia da Computação no Instituto Federal do Ceará (IFCE). Ao mesmo tempo que estudo o básico de JavaScript e MySQL em cursos onlines paralelos.
-- 📝 Atualmente estou começando a programar um jogo em Java como projeto final de Programação Orientada à Objetos do 2º semestre de Engenharia de Computação no IFCE.
+- 📝 Atualmente tenho uma bolsa no Apple Developer Academy, onde pretendo desenvolver diversos projetos relacionados ao IOS tanto em programação quanto em design.
+- 🌱 Eu estou aprendendo agora Swift devido à bolsa no Apple Academy citado acima, ao mesmo tempo em tenho um curso de extensão de Desenvolvimento em IOS promovido pelo Instituto Federal do Ceará (IFCE).
+- 📚 No meu tempo livre gosto de estudar assuntos diversos por meio de cursos online, desde acessibilidade no dia-a-dia até dicas rápidas de português. O importante pra mim é estar sempre aprendendo para me desenvolver melhor como pessoa e profissional.
 
 ## GitHub Stats
 
