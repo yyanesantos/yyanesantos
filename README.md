@@ -12,8 +12,6 @@ Atual estudante de Engenharia de Computação com 22 anos em busca de mais conhe
 
 - ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-- ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MySQL
-)
 - ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
 - ![DataAnalysis](https://img.shields.io/badge/Data%20Analysis-000?style=for-the-badge&logo=DataAnalysis)
 - ![Swift](https://img.shields.io/badge/Swift-000?style=for-the-badge&logo=Swift)
